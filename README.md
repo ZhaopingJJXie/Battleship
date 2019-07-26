@@ -1,2 +1,2 @@
 # Battleship
-this is an exercise from Java coding course "doftware development fundamentals"
+this is an exercise from Java coding course "software development fundamentals"
